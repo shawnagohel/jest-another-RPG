@@ -1,0 +1,15 @@
+{
+  "name": "module-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "test": "^26.4.2"
+  }
+}
